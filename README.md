@@ -1,4 +1,4 @@
-# Online Web Game Boilerplate
+# Online 3D Web Game Boilerplate
 
 # Setup
 You’ll need to install a few things before you have a working copy of the project.
